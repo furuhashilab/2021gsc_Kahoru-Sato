@@ -86,7 +86,7 @@ Glideで使用したGoogleスプレッドシート　https://docs.google.com/spr
 ## Conclusion:
 
 ## Reference/参考文献:
-
+https://docs.google.com/spreadsheets/d/1l70O47JlMSO01KnH_sPY8IhMeBc9VzU7UZTzvXHGk74/edit#gid=0
 
 ## Acknowledgements/謝辞:
 
