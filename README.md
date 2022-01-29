@@ -91,4 +91,6 @@ Glideで使用したGoogleスプレッドシート　https://docs.google.com/spr
 https://docs.google.com/spreadsheets/d/1l70O47JlMSO01KnH_sPY8IhMeBc9VzU7UZTzvXHGk74/edit#gid=0
 
 ## Acknowledgements/謝辞:
+本研究を進めるにあたり地球社会共生学部の菊池尚代教授、古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
+
 
