@@ -94,16 +94,26 @@ https://docs.google.com/spreadsheets/d/1l70O47JlMSO01KnH_sPY8IhMeBc9VzU7UZTzvXHG
 本研究を進めるにあたり地球社会共生学部の菊池尚代教授、古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
 
-# 資料
+## 資料
 **2020年度ゼミ論本文**  
 https://docs.google.com/document/d/15ezuXFtbp9k-WkyxLEopBYkaFAwaP_gebzmIw1RAzQM/edit?usp=sharing
+
+
 **進捗管理用プロジェクト**  
- 
+https://github.com/furuhashilab/2021gsc_Kahoru-Sato/projects/2
+
+
 **最終プレゼン資料**  
 https://docs.google.com/document/d/15ezuXFtbp9k-WkyxLEopBYkaFAwaP_gebzmIw1RAzQM/edit?usp=sharing   
+
+
 **参考文献リスト**   
 https://docs.google.com/spreadsheets/d/1l70O47JlMSO01KnH_sPY8IhMeBc9VzU7UZTzvXHGk74/edit?usp=sharing
+
+
 **作成アプリ**  
 https://otasukegrareco.glideapp.io/
+
+
 **ゼミ生向けグラレコに関するアンケート回答**  
 https://docs.google.com/spreadsheets/d/12wZKnddUm3eTR7aqETrj6w9F-NqVCYk8GsYbUJiAJO8/edit?resourcekey#gid=1306717794
