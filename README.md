@@ -9,6 +9,7 @@
 氏名：佐藤かほる
 
 指導教員：古橋 大地教授
+
 © Kikuchi&Furuhashi Laboratory/KahoruSato, CC BY 4.0
 
 
