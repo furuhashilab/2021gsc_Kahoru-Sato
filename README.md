@@ -79,8 +79,10 @@
 
 ***おたすけグラレコを使いやすくするためのアップデート***
 - [How to’s]タブをスクロールして閲覧可能にした。(方法：imageタブを追加し、使用したい画像を差し込む。)
-- [Illustration]タブ内にイラスト・ロゴを追加した。（方法：ハッカソンで各サークルが作成したイラストを追加。）
 - [How to’s]デジタルグラレコのコンテンツを追加した。（方法：GoogleSlideにて作成したものをGlideに追加した。）
+- [How to’s]デジタルグラレコを実際に行っている参考動画を追加した。（方法：iMovieにて作成したものをYoutubeに載せたURLをGlideに追加した。）
+- [Illustration]タブ内にイラスト・ロゴを追加した。（方法：ハッカソンで各サークルが作成したイラストを追加。）
+
  
  
 
@@ -160,6 +162,10 @@ https://docs.google.com/spreadsheets/d/1l70O47JlMSO01KnH_sPY8IhMeBc9VzU7UZTzvXHG
 
 **作成アプリ**  
 https://otasukegrareco.glideapp.io/
+
+
+**作成動画**
+https://youtu.be/wt_LUaQKrdg
 
 
 **ゼミ生向けグラレコに関するアンケート回答**  
