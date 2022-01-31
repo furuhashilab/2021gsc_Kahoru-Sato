@@ -81,60 +81,38 @@
 - [How to’s]タブをスクロールして閲覧可能にした。(方法：imageタブを追加し、使用したい画像を差し込む。)
 - [How to’s]デジタルグラレコのコンテンツを追加した。（方法：GoogleSlideにて作成したものをGlideに追加した。）
 - [How to’s]デジタルグラレコを実際に行っている参考動画を追加した。（方法：iMovieにて作成したものをYoutubeに載せたURLをGlideに追加した。）
+- [Template]　　レイアウトの種類を追加した。（方法：安田遥さんのNoteを参考にレイアウト参考画像を作成しGlideに追加した。）
 - [Illustration]タブ内にイラスト・ロゴを追加した。（方法：ハッカソンで各サークルが作成したイラストを追加。）
 
  
- 
 
-
-②おたすけグラレコを使ってもらうための施策
-
-・URLを簡潔な文字列に変更した。
-
-　方法：Shareを押した際に出てくるデフォルトのURLを簡潔な文字列に差し替えた。
- 
-・おたすけグラレコを使ってもらうイベントを開催する。
-
-
-- How to’s コンテンツをスクロールできる様にした。
-
-　方法：imageタブを追加し、使用したい画像を差し込む。
- 
-・illustrationにイラスト・ロゴを追加した。
-
-　方法：11月に行われたハッカソンで各サークルが作成したイラストを追加した。
- 
-・How to’s コンテンツにデジタルグラレコのコツを記載した。
-
-　方法：GoogleSlideにて作成したものをGlideに追加した。
-
-
-②おたすけグラレコを使ってもらうための施策
-
-・URLを簡潔な文字列に変更した。
-
-　方法：Shareを押した際に出てくるデフォルトのURLを簡潔な文字列に差し替えた。
- 
-・おたすけグラレコを使ってもらうイベントを開催する。
-
-
+***おたすけグラレコを使ってもらうための施策***
+- URLを簡潔な文字列に変更した。(方法：Shareを押した際に出てくるデフォルトのURLを簡潔な文字列に差し替えた。)
+- Glideを古橋研究室と共同編集可能に設定した。
+- おたすけグラレコを使ってもらうイベントを開催する。(2022年2月22日予定)
 
 
 
 
 ## Results:
-作成したアプリ　https://otasukegrareco.glideapp.io/
+作成したアプリ
+　　https://otasukegrareco.glideapp.io/
 
-Glideで使用したGoogleスプレッドシート　https://docs.google.com/spreadsheets/d/1nEciQ1ZPe-PdgLz0mjSW3Bh2bAXfg8WxUKetmNK7Q8s/edit?usp=sharing
+Glideで使用したGoogleスプレッドシート　
+　https://docs.google.com/spreadsheets/d/1nEciQ1ZPe-PdgLz0mjSW3Bh2bAXfg8WxUKetmNK7Q8s/edit?usp=sharing
 
 
 
 ## Discussion:
-
+今回のアップデートにより、アプリの利便性が高まったと考える。今後使った人からのアンケートを集計し、アップデートの有効性を確かめていきたい。また、Glide、Googleスプレッドシートを共同編集可能にしたので、この研究が受け継がれていくことが期待される。
 
 
 
 ## Conclusion:
+アプリを制作することで、コミュニティ内の知見の共有が可能になることを実感できたので、グラレコだけでなく、様々な分野においてアプリ開発をしてみたい。
+
+
+
 
 ## Reference/参考文献:
 https://docs.google.com/spreadsheets/d/1l70O47JlMSO01KnH_sPY8IhMeBc9VzU7UZTzvXHGk74/edit#gid=0
