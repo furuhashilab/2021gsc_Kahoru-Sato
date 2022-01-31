@@ -46,13 +46,23 @@
 まず、現状分析を行うために以下の二つの調査を行った。
 
 ### (1)ゼミ生を対象とするグラレコ/旧アプリについてのアンケート調査
-調査の主な目的は、・グラレコに対する率直な気持ちを知ること　・ゼミ生がグラレコ時に困難に感じる点を明らかにすること。　・「おたすけグラレコ」に求めるコンテンツ/機能を明らかにすること。だ。ゼミ生がグラレコ時に困難に感じる点については旧アプリ制作時に判明していたこともあるが、今回はより詳細な情報を聞き出した。
+***調査目的***
+- グラレコに対する率直な気持ちを知ること
+- 　ゼミ生がグラレコ時に困難に感じる点を明らかにすること
+- 　「おたすけグラレコ」に求めるコンテンツ/機能を明らかにすること。
+
+ゼミ生がグラレコ時に困難に感じる点については旧アプリ制作時に判明していたこともあるが、今回はより詳細な情報を聞き出した。
 
 ***アンケート結果***
 - https://docs.google.com/spreadsheets/d/12wZKnddUm3eTR7aqETrj6w9F-NqVCYk8GsYbUJiAJO8/edit?resourcekey#gid=1306717794
 
+
+
+
 ### (2)川嶋彩香さんへの聞き取り調査
-調査の主な目的は、・Gliedとスプレッドシートの引き継ぎ。　・旧アプリの課題の洗い出し。だ。
+***調査目的***
+- 　Gliedとスプレッドシートの引き継ぎ
+- 　旧アプリの課題の洗い出し
 
 ***課題***
 - [How to’s] タブ内に画像を追加できず、SpeakerDeckとGoogleSlideのリンクを貼っていて使いづらい。
@@ -92,10 +102,6 @@
 作成したアプリ　https://otasukegrareco.glideapp.io/
 
 Glideで使用したGoogleスプレッドシート　https://docs.google.com/spreadsheets/d/1nEciQ1ZPe-PdgLz0mjSW3Bh2bAXfg8WxUKetmNK7Q8s/edit?usp=sharing
-
-アンケート回答https://docs.google.com/spreadsheets/d/12wZKnddUm3eTR7aqETrj6w9F-NqVCYk8GsYbUJiAJO8/edit?resourcekey#gid=1306717794
-
-
 
 
 
