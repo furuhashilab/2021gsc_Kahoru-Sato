@@ -147,7 +147,7 @@ https://otasukegrareco.glideapp.io/
 
 
 **作成動画**
-https://youtu.be/wt_LUaQKrdg
+https://youtu.be/nXEop9_5kc0
 
 
 **ゼミ生向けグラレコに関するアンケート回答**  
