@@ -110,15 +110,20 @@ Glideで使用したGoogleスプレッドシート　
 本研究を行う上で、旧アプリアップデートの必要性の有無は理解する必要があった。ゼミ生を対象に行った、グラレコについてのアンケート調査の結果を見ると、以下の回答が得られた。
 
 ***グラレコはやる意味があると思うか***
+***
 ![alt](https://user-images.githubusercontent.com/64342648/152509534-86304f8d-4243-48e8-ac84-9de097ea685e.png)
 
 ***上記回答の理由***
+***
 ![alt](https://user-images.githubusercontent.com/64342648/152509866-ef9595e1-2546-4ca4-9d54-52ed897b4c92.png)
 
 
 
 ***「おたすけグラレコ」を参考にしたいか***
+***
 ![alt](https://user-images.githubusercontent.com/64342648/152510299-86734b4d-f593-4d6e-93cf-91dff015075e.png)
+
+
 
 上記の結果から、ゼミ生はグラレコの
 
