@@ -96,7 +96,9 @@
 
 ## Results:
 作成したアプリ
-　　https://otasukegrareco.glideapp.io/
+　https://otasukegrareco.glideapp.io/
+
+（旧アプリ：　https://sudden-coat-8413.glideapp.io/）
 
 Glideで使用したGoogleスプレッドシート　
 　https://docs.google.com/spreadsheets/d/1nEciQ1ZPe-PdgLz0mjSW3Bh2bAXfg8WxUKetmNK7Q8s/edit?usp=sharing
