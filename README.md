@@ -108,10 +108,13 @@
 
 ## Results:
 
-作成アプリ
+### 作成アプリ
 
-![alt]()
+QRコード
+![alt](https://user-images.githubusercontent.com/64342648/152600439-372f9fbf-ef1d-463d-b99e-89726b875bc7.png)
 
+URL
+　　
 　https://otasukegrareco.glideapp.io/
 
 （旧アプリ：　https://sudden-coat-8413.glideapp.io/　）
