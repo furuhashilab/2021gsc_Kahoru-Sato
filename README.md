@@ -110,26 +110,25 @@
 ![alt](https://user-images.githubusercontent.com/64342648/152600439-372f9fbf-ef1d-463d-b99e-89726b875bc7.png)
 
 #### 作成アプリURL
-　　
-　https://otasukegrareco.glideapp.io/
- 
- 
 
+https://otasukegrareco.glideapp.io/
 
 旧アプリ(比較用)：　https://sudden-coat-8413.glideapp.io/　
 
 Glideで使用したGoogleスプレッドシート　
 
-
 　https://docs.google.com/spreadsheets/d/1nEciQ1ZPe-PdgLz0mjSW3Bh2bAXfg8WxUKetmNK7Q8s/edit?usp=sharing
 
+おたすけグラレコアップデート案チェックリスト
+
+https://docs.google.com/spreadsheets/d/18RzXA4Qs6SVixVelMbscuK5wl3mIm102_mScq61PtO4/edit?usp=sharing
 
 
 ## Discussion:
 
 ### 「おたすけグラレコ　 v2」について
 2つの調査で希望された機能を多数追加し、アプリのアップデートが行われた。また、アプリを使ってもらうための施策が行われた。
-本研究の一連の過程で、ADEMAというモデルを使って購買決定プロセスを説明できると考えた。
+本研究の一連の過程で、AIDMAというモデルを使って購買決定プロセスを説明できると考えた。
 
 | 段階 | 本アプリで言うと |
 ----|---- 
@@ -141,7 +140,7 @@ Glideで使用したGoogleスプレッドシート　
 
 
 このような理想的な購買決定プロセスを経るか否かは解明されていないため、今後の課題としたい。
-また、追加したかったが、未だ実行できていない機能もあるので、今後の課題としたい。
+また、追加したかったが、未だ実行できていない機能もあるので、今後の課題としたい（チェックリスト参照）。
 
 
 
